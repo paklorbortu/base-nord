@@ -1,0 +1,8 @@
+{
+  "name": "BaseNord & River Haus",
+  "description": "A Nordic-inspired co-working space, business hub, and cafe in Accra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
